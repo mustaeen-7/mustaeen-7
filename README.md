@@ -11,7 +11,7 @@
 
 - 📫 how to reach me **mdmustaeenkhan777@gmail.com**
 
-- ⚡ fun fact **i think i am funny**
+- ⚡ fun fact **i think i am funny but i ain't rn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
