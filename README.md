@@ -1,25 +1,21 @@
-<h1 align="center">hi 👋, i'm abdul rahman</h1>
+<h1 align="center">hi 👋, i'm mustaeen</h1>
 <h3 align="center">Robotics and Programming Enthusiast | ROS Dev</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdu7rahman&label=Profile%20views&color=cc0000&style=flat" alt="abdu7rahman" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdu7rahman&label=Profile%20views&color=cc0000&style=flat" alt="mustaeen-7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdu7rahman" alt="abdu7rahman" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustaeen-7" alt="mustaeen-7" /></a> </p>
 
 - 🌱 i’m currently learning **ROS and Machine Learning**
 
-- 👨‍💻 all of my projects are available at [github.com/abdu7rahman](github.com/abdu7rahman)
+- 👨‍💻 all of my projects are available at [github.com/mustaeen-7](github.com/mustaeen-7)
 
-- 📫 how to reach me **abdulrahmantrm@gmail.com**
+- 📫 how to reach me **mdmustaeenkhan777@gmail.com**
 
 - ⚡ fun fact **i think i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/abdu7rahman_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdu7rahman_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdu7rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdu7rahman" height="30" width="40" /></a>
-<a href="https://kaggle.com/abdu7rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdu7rahman" height="30" width="40" /></a>
-<a href="https://instagram.com/abdu7rahman_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdu7rahman_" height="30" width="40" /></a>
-<a href="https://medium.com/@abdulrahmantrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdulrahmantrm" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdu7rahman&show_icons=true&theme=dark&locale=en&layout=compact" alt="abdu7rahman" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdu7rahman&show_icons=true&theme=dark&locale=en" alt="abdu7rahman" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdu7rahman&show_icons=true&theme=dark&locale=en" alt="mustaeen-7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdu7rahman&theme=dark" alt="abdu7rahman" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdu7rahman&theme=dark" alt="mustaeen-7" /></p>
