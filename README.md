@@ -1,4 +1,4 @@
-<h1 align="center">hi 👋, i'm mustaeen</h1>
+<h1 align="center">Hi 👋, I'm Mustaeen</h1>
 <h3 align="center"> Programming Enthusiast | Full Stack and Robotics Devloper</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdu7rahman&label=Profile%20views&color=cc0000&style=flat" alt="mustaeen-7" /> </p>
