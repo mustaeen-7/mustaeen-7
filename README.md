@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustaeen-7" alt="mustaeen-7" /></a> </p>
 
-- 🌱 i’m currently learning **Fullstack Development And Devops**
+- 🌱 Expertise is in **ROS** and currently learning **Cloud Technologies**
 
 - 👨‍💻 all of my projects are available at [github.com/mustaeen-7](github.com/mustaeen-7)
 
